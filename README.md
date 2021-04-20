@@ -1,4 +1,4 @@
-> My primary areas of involvement are in _object-oriented development, refactoring, patterns, agile methods, enterprise application architecture, domain modeling, and extreme programming._ I have strong leading and technical management skills. Always follow the advanced styles of development and always try to be on the peak of technology.
+My primary areas of involvement are in _object-oriented development, refactoring, patterns, agile methods, enterprise application architecture, domain modeling, and extreme programming._ I have strong leading and technical management skills. Always follow the advanced styles of development and always try to be on the peak of technology.
 
 I have participated in all phases of the enterprise system development including estimate, design and architecture, implementation, debugging, deployment, integration, testing, re-factoring and maintenance with producing concise technical documentation. I possess good knowledge and experience of web enterprise systems together with in-depth understanding of such access layers as presentation, web, business and data with their inter and intra communications.
 
